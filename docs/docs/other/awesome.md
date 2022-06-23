@@ -21,6 +21,12 @@ This is a collection ofo (alphabetically ordered) sites made with Statamic using
 * [crazyceramic.de](https://www.crazyceramic.de) by [klickreflex](https://twitter.com/klickreflex)
 * [socialebenadering.nl](https://socialebenadering.nl) by [Studio 1902](https://1902.studio) & [Merkactivisten](https://merkactivisten.nl)
 * [startupcity.hamburg](https://startupcity.hamburg) by [Codetopia](https://codetopia.de)
+* [joshtristram.com](https://joshtristram.com) by [Josh Tristram](https://joshtristram.com)
+* [buckettlaw.co.nz](https://buckettlaw.co.nz) by [Josh Tristram](https://joshtristram.com)
+* [gtb.co.nz](https://gtb.co.nz) by [Josh Tristram](https://joshtristram.com)
+* [tclaccountants.co.nz](https://www.tclaccountants.co.nz) by [Josh Tristram](https://joshtristram.com)
+* [janeandherdragon.com](https://janeandherdragon.com) by [Josh Tristram](https://joshtristram.com)
+* [takingwonderland.com](https://takingwonderland.com) by [Josh Tristram](https://joshtristram.com)
 
 ## Peak Branding
 
